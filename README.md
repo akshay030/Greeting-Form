@@ -23,27 +23,26 @@ Before you begin, make sure you have [Node.js](https://nodejs.org/) and [npm](ht
 
 ### Clone the repository
 
-``bash
+``
 git clone https://github.com/akshay030/Greeting-Form.git
 cd Greeting-Form``
 
 # Install backend dependencies
-cd backend
-npm install
+``cd backend
+npm install``
 
 # Install frontend dependencies
-cd ../frontend
-npm install
+``cd ../frontend
+npm install``
 
 Running the Application
 Start the Backend: Go to the backend directory and run:
 
 
-npm start
+``npm start``
 This will start the server on http://localhost:5000.
 
 Start the Frontend: Go to the frontend directory and run:
 
-
-npm run dev
+``npm run dev``
 This will start the React development server on http://localhost:5173.
