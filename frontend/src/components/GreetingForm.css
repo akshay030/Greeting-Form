@@ -1,0 +1,50 @@
+
+
+/* Style for the container */
+.greeting-form-container {
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Arial', sans-serif;
+    
+  }
+  
+  /* Style for the input field */
+  .greeting-form-container input {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    width: 250px;
+    font-size: 16px;
+    
+  }
+  
+  /* Style for the button */
+  .greeting-form-container button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 2px;
+
+  }
+  
+  .greeting-form-container button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Style for the message */
+  .greeting-form-container p {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  .greeting-form-container input:focus {
+    outline: none;
+    border-color: #4CAF50;
+  }
+  
